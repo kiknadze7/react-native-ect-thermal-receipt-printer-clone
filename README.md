@@ -1,7 +1,7 @@
 # react-native-ect-thermal-receipt-printer
 
-![npm](https://img.shields.io/npm/dw/react-native-thermal-receipt-printer?logo=github)
-![npm](https://img.shields.io/npm/v/react-native-thermal-receipt-printer-image-qr?color=green&logo=npm&logoColor=green)
+![npm](https://img.shields.io/npm/dw/react-native-ect-thermal-receipt-printer?logo=github)
+![npm](https://img.shields.io/npm/v/react-native-ect-thermal-receipt-printer?color=green&logo=npm&logoColor=green)
 
 - Forked for Latest Rect Native Update by Team Ecotence.
 - Fork of [`react-native-thermal-receipt-printer`](https://www.npmjs.com/package/react-native-thermal-receipt-printer) and add implement :
