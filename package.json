@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ect-thermal-printer",
+  "name": "react-native-ect-thermal-receipt-printer",
   "version": "1.0.0",
   "description": "Fork of react-native-printer. React Native Library to support USB/BLE/Net printer",
   "main": "dist/index.js",
@@ -49,5 +49,8 @@
   },
   "author": "ecotence",
   "homepage": "https://github.com/ecotence/react-native-ect-thermal-receipt-printer#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
