@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ect-thermal-receipt-printer",
+  "name": "react-native-ect-thermal-receipt-printer-clone",
   "version": "1.0.1",
   "description": "Fork of react-native-printer. React Native Library to support USB/BLE/Net printer",
   "main": "dist/index.js",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ecotence/react-native-ect-thermal-receipt-printer.git"
+    "url": "https://github.com/kiknadze7/react-native-ect-thermal-receipt-printer-clone.git"
   },
   "files": [
     "dist",
     "android",
     "ios",
-    "react-native-ect-thermal-receipt-printer.podspec"
+    "react-native-ect-thermal-receipt-printer-clone.podspec"
   ],
   "keywords": [
     "react-native",
@@ -47,7 +47,7 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.0.2"
   },
-  "author": "ecotence",
-  "homepage": "https://github.com/ecotence/react-native-ect-thermal-receipt-printer#readme",
+  "author": "kiknadze7",
+  "homepage": "https://github.com/kiknadze7/react-native-ect-thermal-receipt-printer-clone#readme",
   "license": "ISC"
 }

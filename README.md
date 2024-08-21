@@ -1,7 +1,7 @@
-# react-native-ect-thermal-receipt-printer
+# react-native-ect-thermal-receipt-printer-clone
 
-![npm](https://img.shields.io/npm/dw/react-native-ect-thermal-receipt-printer?logo=github)
-![npm](https://img.shields.io/npm/v/react-native-ect-thermal-receipt-printer?color=green&logo=npm&logoColor=green)
+![npm](https://img.shields.io/npm/dw/react-native-ect-thermal-receipt-printer-clone?logo=github)
+![npm](https://img.shields.io/npm/v/react-native-ect-thermal-receipt-printer-clone?color=green&logo=npm&logoColor=green)
 
 - Forked for Latest React Native Update by Team Ecotence.
 - Fork of [`react-native-thermal-receipt-printer`](https://www.npmjs.com/package/react-native-thermal-receipt-printer) and add implement :
@@ -26,17 +26,16 @@
 
 <br />
 
-
 ## Installation
 
 ```
-npm i react-native-ect-thermal-receipt-printer
+npm i react-native-ect-thermal-receipt-printer-clone
 ```
 
 or
 
 ```
-yarn add react-native-ect-thermal-receipt-printer
+yarn add react-native-ect-thermal-receipt-printer-clone
 ```
 
 next step
@@ -46,7 +45,7 @@ next step
 cd ios && pod install
 
 # RN < 0.60
-react-native link react-native-ect-thermal-receipt-printer
+react-native link react-native-ect-thermal-receipt-printer-clone
 ```
 
 ## API Reference
@@ -94,10 +93,10 @@ react-native link react-native-ect-thermal-receipt-printer
 import {
   COMMANDS,
   ColumnAlignment,
-} from "react-native-ect-thermal-receipt-printer";
+} from "react-native-ect-thermal-receipt-printer-clone";
 ```
 
-[See more here](https://github.com/ecotence/react-native-ect-thermal-receipt-printer)
+[See more here](https://github.com/ecotence/react-native-ect-thermal-receipt-printer-clone)
 
 ## Example
 
@@ -152,7 +151,7 @@ Printer.printImage(
 );
 ```
 
-[See more here](https://github.com/ecotence/react-native-ect-thermal-receipt-printer)
+[See more here](https://github.com/ecotence/react-native-ect-thermal-receipt-printer-clone)
 
 ## Troubleshoot
 
