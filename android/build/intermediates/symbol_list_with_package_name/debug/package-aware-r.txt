@@ -1,2 +1,2 @@
-com.pinmi.react.printer
+com.kiknadze7.react.printer
 string app_name

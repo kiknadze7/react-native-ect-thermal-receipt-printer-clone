@@ -4,7 +4,7 @@
     "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.pinmi.react.printer",
+  "applicationId": "com.kiknadze7.react.printer",
   "variantName": "debug",
   "elements": [
     {
